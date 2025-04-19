@@ -5,6 +5,7 @@ bl_info = {
     "author": "http4211",
     "version": (1, 0),
     "blender": (4, 0, 0),
+    'tracker_url': 'https://github.com/http4211/ToPu_AutoGizmoDisplay',
     "description": "Add-on that automatically displays the appropriate gizmo according to the transform operation.",
 }
 
