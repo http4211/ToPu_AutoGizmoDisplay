@@ -10,7 +10,7 @@ ToPu_AutoGizmoDisplay は、
 移動・回転・拡大縮小といった履歴に応じて、対応するギズモを自動で表示してくれるアドオンです！
 
 ## 入手方法
-最新版は[Code > Download ZIP](https://github.com/http4211/ToPu_LockLockTool/releases) または Dev ブランチから ZIP ファイルをダウンロードしてください。
+最新版は[Code > Download ZIP](https://github.com/http4211/ToPu_AutoGizmoDisplay/releases) または Dev ブランチから ZIP ファイルをダウンロードしてください。
 
 ## 機能
 #### ①最適なギズモを自動表示
