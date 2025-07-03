@@ -4,10 +4,8 @@
 
 
 
-Blenderで普段はショートカット派だけど、時々ギズモが欲しいと感じたことはありませんか？
-
-ToPu_AutoGizmoDisplay は、
-移動・回転・拡大縮小といった履歴に応じて、対応するギズモを自動で表示してくれるアドオンです！
+操作履歴に基づいてギズモを自動表示するアドオンです。
+tool系を使いたくない人向けのニッチなアドオンになります。
 
 ## 入手方法
 最新版は[Code > Download ZIP](https://github.com/http4211/ToPu_AutoGizmoDisplay/releases) または Dev ブランチから ZIP ファイルをダウンロードしてください。
@@ -37,13 +35,6 @@ ToPu_AutoGizmoDisplay は、
 個人的には[こちら](https://superhivemarket.com/products/autoconstraints) のアドオンと併用して使っていたりします。
 
 
-## こんな人におすすめ！
-
-他のギズモ系アドオンだと、操作のたびにワンクッションのギズモ表示が入ってしまい、「Blender本来の操作感」とはどこか違う…と感じたことはありませんか？
-
-ToPu_AutoGizmoDisplay は、Blender標準の動きに一切干渉せず、ギズモを表示してくれます。
-
-そんなニッチなギズモをお求めの方に、是非お勧めです！
 
 
 
